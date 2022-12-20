@@ -1,0 +1,487 @@
+----CRONOLOGIA RICHIESTE JARVIS----
+jarvis che ore sono
+jarvis come ti chiami
+jarvis che giorno è oggi
+jarvis stop
+già visto che ore sono
+jarvis come ti chiami
+jarvis hai paura di qualcosa
+jarvis stop
+che ore sono
+jarvis che ore sono
+jarvis stop
+jarvis cerca su google
+già visto che ore sono
+jarvis che ore sono
+jarvis che giorno è oggi
+jarvis stop
+
+oggi è Monday numero 07 anno 2022 -> jarvis come stai
+oggi è Monday numero 07 anno 2022 -> jarvis stop
+07-20-00 -> jarvis che giorno è oggi
+07-20-00 -> jarvis esplora file
+07-20-00 -> cherries che ore sono
+07-20-00 -> jarvis quanti anni hai
+07-20-00 -> jarvis stop
+07-20-36-$S -> charlie's vorrei dire a me del passato
+07-20-36-$S -> jarvis stop
+07-20-37-58 -> jarvis che ore sono
+07-20-37-58 -> jarvis stop
+07-20-38-47 -> jarvis stop
+07-20-41-45 -> cerca una lampada su google
+07-20-42-00 -> jarvis cerca una lampada su
+07-20-42-00 -> jarvis cerca una lampada su google
+07-20-42-42 -> jarvis cerca su google una lampada
+07-20-43-27 -> jarvis cerca su google lampada
+07-20-50-55 -> jarvis che ore sono
+07-20-50-55 -> jarvis stop
+07-20-55-51 -> service cos'è
+07-20-55-51 -> service stop
+07-20-55-51 -> jarvis stop
+07-21-00-01 -> jervis ricerca su google
+07-21-00-44 -> jarvis cerca su google
+07-21-03-26 -> jarvis cerca su google cos'è una lampada
+07-21-04-18 -> cerca su google cos'è una lampada
+07-21-04-18 -> jarvis cerca su google cosa è una lan
+07-21-06-48 -> jarvis cosa è una lampada
+07-21-06-48 -> jarvis cerca su google lava lamp
+07-21-12-08 -> jarvis cerca su google
+07-21-12-20 -> jarvis che cosa è una lampada
+07-21-18-57 -> jarvis quanti gradi fanno a roma
+07-21-21-32 -> jarvis quanti gradi fanno a roma
+07-21-28-48 -> jarvis quanti gradi fanno a roma
+07-21-29-21 -> jarvis quanti gradi fanno a roma
+07-21-31-28 -> jarvis quanti gradi fanno a roma
+07-21-31-51 -> jarvis quanti gradi fanno a roma
+07-21-32-26 -> jarvis quanti gradi fanno a roma
+07-21-32-39 -> jarvis quanti gradi fanno a roma
+07-21-33-08 -> jarvis quanti gradi fanno a roma
+07-21-33-40 -> jarvis quanti gradi fanno a roma
+07-21-33-55 -> jarvis quanti gradi fanno a roma
+07-21-34-25 -> jarvis che tempo fa a roma
+07-21-34-54 -> jarvis e quanti gradi fanno a roma
+07-21-35-21 -> jarvis che tempo fa a roma
+07-21-35-56 -> jarvis che tempo fa a roma
+07-21-36-17 -> jarvis che tempo fa a roma
+07-21-36-48 -> jarvis che tempo fa a roma
+07-21-37-23 -> jarvis che tempo fa a roma
+07-21-37-36 -> jarvis quanti gradi fanno a roma
+07-21-37-48 -> che tempo fa a roma
+07-21-37-48 -> jarvis che tempo fa a roma
+07-21-39-51 -> jarvis che ore sono
+07-21-39-51 -> jarvis come stai
+07-21-39-51 -> jarvis che ore sono
+07-21-41-24 -> jarvis che ore sono
+07-21-41-24 -> jarvis che giorno è oggi
+07-21-41-24 -> jarvis apri github
+07-21-41-24 -> jarvis
+07-21-41-24 -> jarvis che tempo fa oggi
+08-19-45-13 -> jarvis luce
+08-19-45-13 -> jarvis stop
+08-19-46-45 -> jarvis apri google
+08-19-46-45 -> jarvis stop
+08-19-47-14 -> jarvis apri spotify
+08-19-47-44 -> jarvis apri gmail
+08-19-48-44 -> jarvis apri spotify
+08-19-50-01 -> jarvis apri github
+08-19-50-43 -> jarvis apri github
+08-19-50-43 -> cannabis shop
+08-19-50-43 -> jarvis stop
+08-19-52-55 -> hai visto che ore sono
+08-19-52-55 -> jarvis che ore sono
+08-19-52-55 -> jarvis che giorno è oggi
+08-19-52-55 -> jarvis come ti chiami
+08-19-52-55 -> jarvis come stai
+08-19-52-55 -> jarvis ciao
+08-19-52-55 -> jarvis quanti anni hai
+08-19-52-55 -> jarvis stop
+08-19-54-32 -> jarvis hai paura di qualcosa
+08-19-54-32 -> jarvis quando è il tuo compleanno
+08-19-54-32 -> jarvis a chi è tuo padre
+08-19-54-32 -> jarvis apri applicazioni nel
+08-19-54-32 -> jarvis
+08-19-54-32 -> jarvis quali sono i driver
+08-19-54-32 -> service informazioni del sistema
+08-19-54-32 -> jarvis informazioni del sistema
+08-19-54-32 -> jarvis che ore sono
+08-19-54-32 -> jarvis apri esplora file
+08-19-54-32 -> jarvis che ore sono
+08-19-54-32 -> jarvis apri google
+08-19-54-32 -> jarvis cerca su google telefono
+08-19-56-58 -> che cos'è un telefono
+08-19-56-58 -> jarvis che cosa è un telefono
+08-19-57-45 -> jarvis che tempo fa a bari
+08-19-57-45 -> jarvis stop
+08-20-29-44 -> jarvis che ore sono
+08-20-29-44 -> jarvis stop
+08-20-30-23 -> jarvis che ore sono
+08-20-30-49 -> jarvis che ore sono
+08-20-30-49 -> jarvis che ore sono
+08-20-30-49 -> jarvis che ore sono
+08-20-30-49 -> gradi fanno a roma
+08-20-30-49 -> jarvis e quanti gradi fanno a roma
+08-20-30-49 -> quanti gradi fanno a roma
+08-20-30-49 -> davis quanti gradi fanno a roma
+08-20-30-49 -> jarvis quanti gradi fanno a roma
+08-20-30-49 -> jarvis cerca su google
+08-20-33-43 -> chissà che cosa è un drone
+08-20-33-43 -> jarvis che cos'è un drone
+08-20-35-31 -> jarvis per che cosa è la lava
+08-20-35-31 -> jarvis apri applicazioni in background
+08-20-35-31 -> esplora file
+08-20-35-31 -> jarvis stop
+08-20-43-31 -> charles che ore sono
+08-20-43-31 -> jarvis che ore sono
+08-20-43-31 -> ciao
+08-20-43-31 -> jarvis stop
+08-20-45-10 -> jarvis che ore sono
+08-20-45-10 -> che ore sono
+08-20-45-10 -> jarvis come ti chiami
+08-20-45-10 -> jarvis stop
+08-20-46-25 -> jarvis che ore sono
+08-20-46-25 -> jarvis stop
+08-21-02-44 -> jarvis matteo
+08-21-05-05 -> jarvis matteo
+08-21-05-18 -> jarvis matteo
+08-21-09-31 -> jarvis matteo
+08-21-17-42 -> matteo
+08-21-17-42 -> jarvis matteo
+08-21-22-28 -> jarvis che ore sono
+08-21-22-28 -> jarvis stop
+08-21-26-58 -> jarvis che ore sono
+08-21-26-58 -> jarvis come ti chiami
+08-21-26-58 -> jarvis quanti gradi fanno a roma
+08-21-26-58 -> jarvis cerca su google elefante
+08-21-26-58 -> che bravo jarvis matteo
+09-21-54-25 -> jarvis /
+09-21-54-25 -> per
+09-21-54-25 -> jarvis più
+09-21-54-25 -> service /
+09-21-54-25 -> jarvis stop
+09-21-59-35 -> quanto fa 2 + 2
+09-21-59-35 -> service stop
+09-22-01-53 -> 3 + 2
+09-22-02-19 -> jarvis quanto fa 3 + 2
+09-22-02-19 -> jarvis stop
+09-22-03-19 -> jarvis quanto fa 3 + 2
+09-22-03-19 -> jarvis quanto fa 3 + 2
+09-22-03-19 -> jarvis quanto fa 3 + 2
+09-22-03-19 -> jarvis quanto fa 3 + 2
+09-22-04-27 -> jarvis quanto fa 3 + 2
+09-22-05-17 -> jarvis quanto fa 3 + 2
+09-22-05-17 -> jarvis
+09-22-05-17 -> sto
+09-22-06-19 -> jarvis quanto fa 3 + 2
+09-22-06-19 -> jarvis e quanto fa 3 / 2
+09-22-06-19 -> jarvis quanto fa 3 * 2
+09-22-06-19 -> jarvis quanto fa 16 * 9
+09-22-06-19 -> jarvis stop
+09-22-09-20 -> jarvis matteo
+11-18-26-55 -> che cos'è un licantropo
+11-18-26-55 -> jarvis che cosa è un licantropo
+11-18-26-55 -> jarvis stop
+11-18-28-37 -> giannis quanto fa 4 * 2
+11-18-28-37 -> jarvis quanto fa 4 * 2
+11-18-28-37 -> jarvis matte
+11-18-28-37 -> jarvis matteo
+11-18-54-16 -> che ore sono
+11-18-54-16 -> jarvis che ore sono
+11-18-55-46 -> che ore sono
+11-18-55-46 -> jarvis che ore sono
+11-18-55-46 -> germi figure sono
+11-18-55-46 -> jarvis che ore sono
+11-18-55-46 -> jervis stop
+11-18-55-46 -> jarvis top
+11-18-55-46 -> stop
+11-18-55-46 -> jarvis stop
+11-18-58-29 -> stop
+11-18-58-45 -> jarvis hai paura di qualcosa
+11-18-58-45 -> champions stop
+11-19-57-31 -> jarvis shop
+11-19-57-31 -> jarvis stop
+11-19-58-20 -> jarvis stop
+11-20-01-05 -> jarvis yuri sono
+11-20-01-05 -> jarvis che ore sono
+11-20-01-05 -> stop
+11-20-25-53 -> jarvis che ore sono
+11-20-25-53 -> jarvis stop
+11-20-28-59 -> jarvis yuri sono
+11-20-28-59 -> service stop
+11-20-29-41 -> jarvis stop
+11-20-29-59 -> jarvis
+11-20-29-59 -> stop
+11-20-30-40 -> già visto che ore sono
+11-20-31-19 -> jarvis stop
+11-20-32-16 -> che ore sono
+11-20-32-16 -> stop
+11-20-32-56 -> che ore sono
+11-20-32-56 -> stop
+11-20-33-52 -> che ore sono
+11-20-33-52 -> che ore sono
+11-20-53-51 -> jarvis che ore sono
+11-20-54-11 -> jarvis che ore sono
+11-20-58-20 -> jarvis che ore sono
+11-20-58-20 -> jarvis stop
+11-20-59-26 -> jarvis che ore sono
+11-20-59-26 -> jarvis stop
+11-21-01-31 -> service stop
+11-21-05-51 -> jarvis
+11-21-06-25 -> jarvis a che ore sono
+11-21-06-25 -> jarvis
+11-21-06-25 -> stop
+11-21-08-10 -> jarvis
+11-21-08-10 -> stop
+11-21-08-38 -> stop
+11-21-08-49 -> stop
+11-21-09-09 -> stop
+11-21-10-59 -> stop
+11-21-13-20 -> jarvis stop
+11-21-15-45 -> jalisse
+11-21-15-45 -> stop
+11-21-16-35 -> jarvis
+11-21-16-35 -> sto
+11-21-16-57 -> stop
+11-21-17-21 -> sto
+11-21-20-54 -> jervis stop
+11-21-20-54 -> jarvis che ore sono
+11-21-21-40 -> jarvis che ore sono
+11-21-21-40 -> stop
+11-21-24-27 -> stop stop
+11-21-26-05 -> jarvis stop
+11-21-26-38 -> stop
+11-21-26-49 -> stop
+11-21-27-41 -> stop
+11-21-28-21 -> jarvis che ore sono
+11-21-28-21 -> stop
+11-21-31-25 -> jarvis che ore sono
+11-21-32-34 -> jarvis che ore sono
+11-21-32-34 -> jarvis stop
+11-21-33-44 -> jarvis che ore sono
+11-21-33-44 -> stop
+11-21-33-44 -> stop
+11-21-34-27 -> jarvis che ore sono
+11-21-34-27 -> jarvis stop
+11-21-35-50 -> stop
+11-21-37-32 -> jarvis che ore sono
+11-21-37-32 -> jarvis stop
+11-21-38-40 -> jarvis a che ore sono
+11-21-38-40 -> jarvis che ore sono
+11-21-38-40 -> jarvis stop
+12-13-08-06 -> jarvis che ore sono
+12-13-08-06 -> jarvis stop
+12-13-09-43 -> che ore sono
+12-13-09-43 -> jarvis che ore sono
+12-13-09-43 -> jarvis quanti anni hai
+12-13-09-43 -> jarvis a che ore sono
+12-13-09-43 -> jarvis cerca tele
+12-13-09-43 -> jarvis cerca telefono
+12-13-09-43 -> jarvis che cos'è un telefono
+12-13-09-43 -> jarvis shop
+12-13-13-04 -> che ore sono
+12-13-13-04 -> jarvis che ore sono
+12-13-13-04 -> jarvis stop
+12-13-13-31 -> che ore sono
+12-13-13-31 -> jerry sì che ore sono
+12-13-13-31 -> jarvis che cosa è una lampada
+12-13-13-31 -> jarvis stop
+12-13-16-00 -> jarvis stop
+12-13-17-32 -> stop
+12-13-17-54 -> stop
+12-13-18-08 -> stop
+12-13-18-08 -> jarvis stop
+12-13-19-57 -> jarvis top
+12-13-19-57 -> stop
+12-13-20-25 -> ecco
+12-13-20-25 -> stop
+12-13-21-48 -> stop
+12-13-24-07 -> jarvis a che ore sono
+12-13-24-07 -> volume prisma
+12-13-24-07 -> a che ore sono
+12-13-24-07 -> jarvis che ore sono
+12-13-24-07 -> melody jarvis stop
+12-13-25-10 -> jarvis che ore sono
+12-13-25-10 -> jarvis stop
+12-13-25-40 -> gianni sa che ore sono
+12-13-25-40 -> cherries stop
+12-13-26-32 -> dai risultato
+12-13-26-32 -> stop
+12-13-27-11 -> se sono
+12-13-27-11 -> che ore sono
+12-13-27-11 -> stop
+12-13-27-26 -> stop
+12-13-27-29 -> tu sei
+12-13-29-08 -> stop
+12-13-29-24 -> stop
+12-13-30-21 -> stop
+12-13-30-49 -> stop
+12-13-31-00 -> stop
+12-13-31-00 -> stop
+12-13-31-26 -> stop
+12-13-33-02 -> stop
+12-13-36-27 -> jarvis stop
+12-13-36-40 -> jarvis che ore sono
+12-19-55-41 -> jarvis che ore sono
+12-19-55-41 -> giannis che anni ha quanti anni hai
+12-19-55-41 -> jan jarvis quanti anni hai
+12-19-55-41 -> jarvis che ore sono
+12-19-55-41 -> jarvis come ti chiami
+12-19-55-41 -> jarvis stop
+12-19-57-27 -> jarvis che ore sono
+12-19-57-27 -> service stop
+12-19-59-29 -> già risultata
+12-19-59-29 -> jarvis
+12-19-59-29 -> jarvis stop
+12-20-00-35 -> jarvis stato
+12-20-00-35 -> stop
+12-20-01-00 -> jarvis che ore sono
+12-20-01-00 -> stop
+12-20-03-06 -> jarvis che ore sono
+12-20-03-06 -> jarvis stop
+12-20-04-24 -> stop
+12-20-10-07 -> jarvis stop
+12-20-14-57 -> stop
+12-20-22-26 -> jarvis che ore sono
+12-20-22-26 -> service stop
+15-19-57-30 -> jarvis che ore sono
+15-19-57-30 -> jarvis stop
+15-19-58-02 -> jarvis che ore sono
+15-19-58-02 -> stop
+15-19-59-42 -> jarvis abbassa il volume
+15-19-59-42 -> jarvis alza il volume
+15-19-59-42 -> jarvis alza il volume
+15-19-59-42 -> jarvis abbassa il volume
+15-19-59-42 -> jarvis stop
+15-20-05-51 -> jarvis alza il volume
+15-20-05-51 -> stop
+08-18-57-21 -> che ore sono
+08-18-57-21 -> jarvis che ore sono
+08-18-57-21 -> jarvis cosa è una lampada
+17-21-24-37 -> jarvis che ore sono
+17-21-24-37 -> jarvis che tempo fa a roma
+17-21-24-37 -> jarvis startup
+17-21-24-37 -> service stop
+17-21-33-35 -> jarvis quanto fa sbagliato
+17-21-33-48 -> jarvis come si dice
+17-21-33-48 -> jarvis come si dice
+17-21-33-48 -> jarvis come si dice federica
+17-21-33-48 -> jarvis come ti chiami
+17-21-33-48 -> jarvis come si dice elemento in inglese
+17-21-33-48 -> stop
+17-21-35-30 -> jarvis come si dice lampada in inglese
+17-21-35-30 -> stop
+17-21-36-06 -> jarvis traduci federica in spagnolo
+17-21-36-06 -> stop stop jarvis
+17-21-37-17 -> jarvis come si dice ciabatta in inglese
+17-21-37-17 -> stop stop
+17-21-38-08 -> jarvis come si dice tombola in inglese
+17-21-38-08 -> stop
+17-21-42-24 -> jarvis allegro beato soddisfatte sul tante raggiante euphoria
+17-21-42-24 -> stop
+17-21-42-49 -> stop
+17-21-43-18 -> allegro beato soddisfatto esultante raggiante o fori
+17-21-43-18 -> stop
+17-21-44-05 -> allegro beato soddisfatte sul tante raggiante euforico gioiosa
+17-21-44-05 -> jarvis grazie
+17-21-44-05 -> stop
+17-21-44-41 -> jarvis che ore sono
+17-21-44-41 -> jarvis e soft
+17-21-44-41 -> stop
+17-21-45-30 -> jarvis oggi sono molto allegro
+17-21-45-30 -> jarvis non sto molto bene
+17-21-45-30 -> jarvis che tempo fa a roma
+17-21-45-30 -> jarvis quanto fa 2 + 2
+17-21-45-30 -> jarvis oggi sono molto euforico
+17-21-45-30 -> jarvis
+17-21-45-30 -> stop
+18-12-32-24 -> jarvis come si dice ciao in inglese
+18-12-32-24 -> stop
+18-12-33-02 -> jarvis come si dice basketball in inglese
+18-12-33-02 -> stop
+18-12-33-34 -> jarvis come si dice
+18-12-33-34 -> jarvis come si dice computer in inglese
+18-12-33-34 -> jarvis come si dice quadro in inglese
+18-12-33-34 -> stop
+18-12-34-49 -> jarvis come si dice telefono in inglese
+18-12-34-49 -> stop
+18-12-35-29 -> jarvis come si dice libro in inglese
+18-12-35-29 -> stop
+18-12-36-09 -> jarvis come si dice quadro in inglese
+18-12-36-09 -> stop
+18-12-36-56 -> jarvis come si dice lampada in inglese
+18-12-36-56 -> stop
+18-12-38-23 -> jarvis come si dice tavolo in inglese
+18-12-38-23 -> strappo
+18-12-38-23 -> jarvis come si dice lampada in inglese
+18-12-38-23 -> stop
+18-12-39-57 -> app
+18-12-39-57 -> stop stop
+18-12-40-49 -> jarvis come si dice muro in inglese
+18-12-40-49 -> quindi non ci vuole tanto
+18-12-40-49 -> stop
+18-12-41-46 -> come si dice tavolo in inglese
+18-12-41-46 -> jarvis come si dice tavolo in inglese
+18-12-41-46 -> stop
+18-12-42-45 -> come si dice tavolo in inglese
+18-12-42-45 -> giardino tavolo in inglese
+18-12-42-45 -> jarvis come si dice tavolo in inglese
+18-12-42-45 -> stop
+18-12-43-59 -> jarvis come si dice telefono in inglese
+18-12-43-59 -> stop
+18-12-45-23 -> jarvis come si dice porta in inglese
+18-12-45-23 -> stop
+18-12-46-30 -> jarvis come si dice telefono in inglese
+18-12-46-30 -> stop
+18-12-47-13 -> jarvis come si dice telefono in inglese
+18-12-47-13 -> soft stop
+18-12-48-35 -> jarvis traduci macchina in spagnolo
+18-12-48-35 -> stop
+18-12-49-14 -> jarvis come si dice macchina in inglese
+18-12-49-14 -> stop
+18-12-51-41 -> jarvis come si dice macchina in inglese
+18-12-51-41 -> stop
+18-12-52-06 -> jarvis come si dice lampada in inglese
+18-12-52-06 -> jarvis come si dice porta in inglese
+18-12-52-06 -> jarvis
+18-12-52-06 -> stop
+18-12-53-04 -> jarvis come si dice macchina in spagnolo
+18-12-53-04 -> jarvis come si dice letto in spagnolo
+18-12-53-04 -> jarvis come si dice letto in inglese
+18-12-53-04 -> jarvis stop
+18-12-58-35 -> jarvis come si dice macchina in tedesco
+18-12-58-35 -> stop
+18-13-00-01 -> jarvis è come si dice ciao in francese
+18-13-00-01 -> jarvis startup
+18-13-00-01 -> stop
+18-13-00-34 -> jarvis come si dice lampada in tedesco
+18-13-00-34 -> jarvis come si dice porta in spagnolo
+18-13-00-34 -> jarvis è stata
+18-13-00-34 -> jarvis come si dice lampada in indonesiano
+18-13-00-34 -> jarvis stop
+18-13-02-53 -> stop
+18-13-03-15 -> jarvis come si dice our in inglese
+18-13-03-15 -> stop
+18-13-05-22 -> jarvis oggi sto molto bene sono molto allegro
+18-13-05-22 -> jarvis come si dice lampada in inglese
+18-13-05-22 -> stop
+18-13-08-12 -> jarvis come stai
+18-13-08-12 -> jarvis oggi sta molto bene sono molto allegro
+18-13-08-12 -> jarvis oggi sono molto triste
+18-13-08-12 -> come si dice lampada in francese
+18-13-08-12 -> jarvis come si dice lampada in francese
+18-13-08-12 -> jarvis che ore sono
+18-13-08-12 -> jarvis che giorno è oggi
+18-13-08-12 -> jarvis alza il volume
+18-13-08-12 -> jarvis che cosa è un
+18-13-08-12 -> jarvis
+18-13-08-12 -> jarvis apri google
+18-13-08-12 -> jarvis che cosa è una porta
+18-13-08-12 -> jarvis quanti anni hai
+18-13-08-12 -> jarvis hai paura dei tuoni
+18-13-08-12 -> jarvis com'è il tempo
+18-13-08-12 -> jarvis e quanti gradi fanno a londra
+18-13-08-12 -> che devi fare perché sta
+18-13-08-12 -> stop
+20-22-24-49 -> jarvis attiva
+20-22-24-49 -> attiva
+20-22-24-49 -> jarvis attiva
+20-22-24-49 -> jarvis stop
