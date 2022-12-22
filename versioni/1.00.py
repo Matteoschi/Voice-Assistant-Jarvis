@@ -16,12 +16,12 @@ import time
 import datetime
 import wolframalpha
 
-client = wolframalpha.Client('KHWJ56-JV5YXYQ4VX')
+client = wolframalpha.Client('KHWJ58-JV4YXYQ9VX')
 
 wikipedia.set_lang("it")
 
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather?"
-API_KEY = '1cf92d304b093f943e7558a89dcf2361'
+API_KEY = '1cf93h2d304b093f946h3e755ft8a89dcf2361'
 
 chiamare=["ciao, mi ,chiamo ,jarvis,piacere","ciao, sono ,Jarvis","piacere, di ,conoscerti ,sono, jarvis","il ,mio, nome, è ,jarvis","mi ,chaimo, jarvis"]
 come_stare=["sto ,bene, grazie","bene","bene, te?","in ,allerta","bene, grazie","qui ,dal, cloud, è tutto, linea ,allo, studio","ciao sono l'assistente vocale jarvis, a tuo comando"]
