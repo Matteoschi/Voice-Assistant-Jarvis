@@ -1,5 +1,5 @@
 # Jarvis
-Voice assistant made with python.Voice assistant uses several libraries including the most important one speech_recognition.
+Voice assistant made with python.Voice assistant uses several libraries including the most important one - [speec_recognition](https://pypi.org/project/SpeechRecognition/)
 ```
 from speech_recognition import Microphone, Recognizer
 ```
