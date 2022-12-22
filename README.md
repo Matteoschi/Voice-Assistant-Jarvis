@@ -1,4 +1,4 @@
-# voice-assistant-Jarvis
+# Jarvis
 Voice assistant made with python.Voice assistant uses several libraries including the most important one speech_recognition.
 ```
 from speech_recognition import Microphone, Recognizer
@@ -37,4 +37,8 @@ We find a translator available in 4 different languages including: French German
 ```
 from translate import Translator
 ```
-in the code there are also some preset answers to answer for example questions like how are you, what's your name.
+In the code there are also some preset answers to answer for example questions like how are you, what's your name.
+
+## Authors
+
+- [@Matteoschi](https://github.com/Matteoschi)
