@@ -1,2 +1,2 @@
 # voice-assistant-Jarvis
-a voice assistant made with python
+Voice assistant made with python.Voice assistant uses several libraries including the most important one speech_recognition. To activate voice assistant just say aloud Javrvis in this way various functions will be activated including the possibility of opening a folder, doing elementary calculations, knowing the weather of a city. Assistant also identifies the state of mood through the textblob module. All requests that are made are written to a text file in which the day and time of the same is written. It is also possible to use the wikipedia library to do research. We find a translator available in 4 different languages including: French German Spanish and English
